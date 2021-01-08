@@ -59,7 +59,6 @@
 <script lang="ts">
 import { Component, Prop, Vue } from "vue-property-decorator";
 import axios from "axios";
-import "./landingPage/landing.scss";
 
 @Component
 export default class Landing extends Vue {
